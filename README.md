@@ -1,4 +1,4 @@
-# Switched Flux Magnet Motor - Mk1
+# Switched Flux Magnet Motor - Mk2
 This device is a progression from the Switched Flux Transmission devices I have been developing (my SFT repo has those models). Those devices were designed to switch magnetic flux by interposing a ferromagnetic sheet in the gap between two opposing magnetic poles in the belief that the energy required to pass such a sheet through the magnetic gap would be less than could be obtained by the consequent flux switching.
 The SFT devices required an energy input to power the flux switching. This design, however, should run with no energy input, just due to the geometry of the device and the arrangement of the magnets and ferromagnetic sheets.
 
